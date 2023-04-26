@@ -22,3 +22,4 @@ Bu proje, MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE do
 
 Ekran Resimleri:
 
+![muhasebe](https://user-images.githubusercontent.com/83727951/234595497-e7799879-3c00-4273-a55a-66d43dc11c81.png)
