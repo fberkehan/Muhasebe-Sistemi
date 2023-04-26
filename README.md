@@ -21,6 +21,4 @@ Lisans
 Bu proje, MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
 
 Ekran Resimleri:
-![screencapture-verkauf-hannover-istikbal-de-muhasebe-index-php-2023-04-26-16_36_00](https://user-images.githubusercontent.com/83727951/234593160-9a0d021b-796e-4b1a-8a61-f63a7b2aaae5.png)
-![screencapture-verkauf-hannover-istikbal-de-muhasebe-index-php-2023-04-26-16_35_12](https://user-images.githubusercontent.com/83727951/234593169-b304ef34-83ae-4234-868a-4624b03512b2.png)
-![screencapture-verkauf-hannover-istikbal-de-muhasebe-index-php-2023-04-26-16_34_12](https://user-images.githubusercontent.com/83727951/234593179-b2ab39b5-f352-4725-bfe5-4d7a35fbfaf3.png)
+
