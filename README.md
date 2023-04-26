@@ -19,6 +19,7 @@ Herhangi bir katkıda bulunmak isterseniz, lütfen bir çekme isteği oluşturun
 
 Lisans
 Bu proje, MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+(Dosyalar güvenlik amacı ile github'a eklenmemiştir.)
 
 Ekran Resimleri:
 
